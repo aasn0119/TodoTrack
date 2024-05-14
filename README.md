@@ -17,7 +17,7 @@ Follow these steps to run TodoTracker on your local system:
 1. **Clone the Repository:**
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/{your-username}/TodoTrack.git
    ```
 
 2. **Navigate to the Project Directory:**
