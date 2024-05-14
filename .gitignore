@@ -1,0 +1,29 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Compiled files
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# IDE specific
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# macOS specific
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
